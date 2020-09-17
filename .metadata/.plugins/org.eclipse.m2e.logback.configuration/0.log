@@ -783,3 +783,15 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2020-09-17 16:41:51,377 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-17 16:41:51,394 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-17 16:41:51,397 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-17 16:43:24,736 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-17 16:43:24,737 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-17 16:43:24,737 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-17 16:43:24,743 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-17 16:43:24,746 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-17 16:51:33,603 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-17 16:51:33,604 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-17 16:51:33,605 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-17 16:51:33,626 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-17 16:51:33,629 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-17 16:51:39,080 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.6.2/junit-platform-launcher-1.6.2.jar
+2020-09-17 16:51:39,587 [Worker-52: Launching LeilaoCucumberRunner] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.6.2/junit-platform-launcher-1.6.2.jar
